@@ -258,4 +258,4 @@ cam.release()
 cv2.destroyAllWindows()
 
 
-print("hello World")
+print("hello")
