@@ -8,7 +8,7 @@ Eye-Tracking-Mouse is a hands free, computer vision based mouse controller. It u
 
 ## ✨ Features
 
-* **Real-Time Eye Tracking:** Maps pupil movement to screen coordinates with a 9-point calibration system.
+* **Real-Time Eye Tracking:** Maps pupil movement to screen coordinates with a 9 point calibration system.
 * **Smart Clicking:** Detects sustained blinks (filtering out natural blinks) to trigger left and right mouse clicks.
 * **Gesture Scrolling:** Opening your mouth toggles scroll mode, allowing you to scroll pages up and down by moving your head.
 * **Auto-Typing Pause:** Listens for keyboard input and automatically halts cursor movement while you are typing to prevent accidental clicks.
